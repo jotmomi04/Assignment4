@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o3f15ne/c2aWDuycesyc34CzrUNqBZyBasLXeJ5xgddjdwRAjyIjd7Vs6dkSOo+VwujZeeZNpCJDiUT5okaLJA==",
+  "dgSpecHash": "MrZDBgssGdAkedAn3SFJeAIUjSzdr2OfzFE7nOt8EMfSHtwURqRQdu4GFklF8UoIc5iHSmrJ0+hwgsbERZxYFQ==",
   "success": true,
-  "projectFilePath": "D:\\2nd trem\\asp.net\\Assignment4\\Assignment4\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "D:\\2nd trem\\asp.net\\Plagar App\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

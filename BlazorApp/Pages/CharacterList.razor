@@ -1,0 +1,46 @@
+﻿@page "/CharacterList"
+<h3>CharacterList</h3>
+<ul>
+    @foreach (var CharacterList in Characters)
+    {
+        <li> <input type="checkbox" @bind="CharacterList.IsFicttional" />@CharacterList.Title</li>
+        <li>@CharacterList.Age</li>
+        <li>@CharacterList.Profession</li>
+       
+    }
+</ul>
+<input placeholder="Title" @bind="newTitle"/>
+
+<input placeholder="Age" @bind="newAge"/>
+
+<input placeholder="Profession" @bind="newProfession"/>
+
+<button @onclick="Title">Add Title</button>
+
+
+@code { 
+    private List<Character> Characters = new();
+    private string newTitle;
+    private int newAge;
+    private string newProfession;
+   
+     private void Title()
+    { if(!string.IsNullOrWhiteSpace(newTitle))
+    { 
+        Characters.Add(new Character { Title = newTitle });
+            newTitle = string.Empty;
+           
+        };
+  
+    }
+  private void Age(){
+Characters.Add(new Character { Age = newAge });
+
+  }
+   private void Profession(){
+Characters.Add(new Character { Profession = newProfession });
+
+  }
+
+}
+
