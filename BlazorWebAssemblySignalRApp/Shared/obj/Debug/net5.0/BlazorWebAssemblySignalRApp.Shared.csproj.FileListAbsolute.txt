@@ -1,0 +1,12 @@
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+D:\2nd trem\asp.net\Assignment4\Assignment4\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
